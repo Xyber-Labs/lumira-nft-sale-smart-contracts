@@ -1,0 +1,17 @@
+{
+    "name": "nft-sale",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "5.0.0",
+        "@openzeppelin/hardhat-upgrades": "3.2.1",
+        "ethers": "6.15.0",
+        "hardhat-contract-sizer": "2.10.0"
+    },
+    "dependencies": {
+        "@nomicfoundation/hardhat-ignition": "0.15.13",
+        "@openzeppelin/contracts": "5.0.2",
+        "@openzeppelin/contracts-upgradeable": "5.0.2",
+        "@openzeppelin/merkle-tree": "1.0.8",
+        "dotenv": "16.4.5",
+        "erc721a-upgradeable": "4.3.0"
+    }
+}

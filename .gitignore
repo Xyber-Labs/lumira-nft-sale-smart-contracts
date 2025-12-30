@@ -1,0 +1,29 @@
+# env
+.env
+
+# typechain
+typechain
+typechain-types
+
+# coverage
+coverage
+coverage.json
+coverageEnv
+
+# scripts
+scripts
+
+# packages
+package-lock.json
+node_modules
+yarn.lock
+
+# cache
+sweep
+cache
+artifacts
+cache-zk
+artifacts-zk
+
+# Hardhat Ignition
+ignition/deployments/
